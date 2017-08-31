@@ -1,5 +1,6 @@
-name 
-class
-roll
-sex
-colleg
+name rajesh awal
+class -
+roll -
+sex male
+college dav
+ 
